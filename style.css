@@ -83,7 +83,7 @@ h1{
 }
 
 main{
-    height: 1400px;
+    height: 1600px;
 }
 
 footer{
@@ -117,7 +117,7 @@ h2{
     color: white;
     text-shadow: 0px 2px 3px black;
     font-weight: 100;
-    font-size: 3em;
+    font-size: 2.5em;
     text-align: center;
     padding-top: 10px;
 }
@@ -129,9 +129,21 @@ h3{
     color: white;
     text-shadow: 0px 2px 3px black;
     font-weight: 100;
-    font-size: 2.0em;
+    font-size: 1.6em;
     padding-left: 5px;
     
+}
+
+.tapiocas{
+    background-image: linear-gradient(to right, #f6aa1c , transparent);
+    font-family: var(--fonte-destaque);
+    font-weight: 100;
+    font-size: 1.6em;
+    text-shadow: 1px 2px 1px black;
+    color: white;
+    display: inline-block;
+    padding-left: 5px;
+    padding-top: 5px;
 }
 
 .valor{
@@ -139,12 +151,12 @@ h3{
     color: white;
     text-align: left;
     padding-left: 5px;
-    font-size: 1.8em;
+    font-size: 1.5em;
     text-shadow: 1px 2px 1px black;
 }
 
 .desc{
-    color: white;
+    color: black;
     text-indent: 20px;
     text-decoration: none;
     text-align: justify;
@@ -152,7 +164,7 @@ h3{
     padding-right:5px;
     padding-left: 5px;
     padding-bottom: 5px;
-    text-shadow: 1px 2px 2px black;
+    text-shadow: 0px 1px 1px black;
 
 }
 
@@ -163,5 +175,27 @@ h3{
     font-family: var(--fonte-padrao);
     text-shadow: 1px 2px 1px black;
     padding-top: 2px;
+}
+
+.complementos{
+    background-image: linear-gradient(to right, #f6aa1c , transparent);
+    font-family: var(--fonte-destaque);
+    font-weight: 100;
+    font-size: 1.5em;
+    text-shadow: 1px 2px 1px black;
+    color: white;
+    display: inline-block;
+    padding-left: 5px;
+}
+
+.refrigerantes{
+    background-image: linear-gradient(to right, #f6aa1c , transparent);
+    font-family: var(--fonte-destaque);
+    font-weight: 100;
+    font-size: 1.5em;
+    text-shadow: 1px 2px 1px black;
+    color: white;
+    display: inline-block;
+    padding-left: 5px;
 }
 
