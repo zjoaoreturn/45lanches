@@ -105,8 +105,13 @@ article{
 #img3{
     top: -250px;
     left: 230px;
-    transform: rotate(10deg);
+    transform: rotate(45deg);
     width: 380px;
+}
+
+#img4{
+    top: 250px;
+    left: 180px;
 }
 
 footer{
