@@ -100,18 +100,19 @@ article{
 #img2{
     top: -150px;
     left: 280px;
+    width: 180px;
 }
 
 #img3{
     top: -250px;
     left: 230px;
     transform: rotate(45deg);
-    width: 380px;
+    width: 180px;
 }
 
 #img4{
     top: 250px;
-    left: 180px;
+    left: 230px;
 }
 
 footer{
